@@ -1,0 +1,49 @@
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SNMP-NMS-STATION.exe.config
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SNMP-NMS-STATION.exe
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SNMP-NMS-STATION.pdb
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Full.dll
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Portable.dll
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SnmpSharpNet.dll
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Full.xml
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Portable.xml
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SnmpSharpNet.pdb
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SnmpSharpNet.xml
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.csprojResolveAssemblyReference.cache
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\MainWindow.g.cs
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\App.g.cs
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION_MarkupCompile.cache
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION_MarkupCompile.lref
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\MainWindow.baml
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.g.resources
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP_NMS_STATION.Properties.Resources.resources
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.csproj.GenerateResource.Cache
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.exe
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.pdb
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\AdditionalWindows\TableView.g.cs
+c:\users\michal.ziolkowski\documents\visual studio 2015\Projects\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\AdditionalWindows\TableView.baml
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SNMP-NMS-STATION.exe.config
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.exe
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.pdb
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SNMP-NMS-STATION.exe.config
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.exe
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.pdb
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SNMP-NMS-STATION.exe
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SNMP-NMS-STATION.pdb
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Full.dll
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Portable.dll
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SnmpSharpNet.dll
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Full.xml
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SharpSnmpLib.Portable.xml
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SnmpSharpNet.pdb
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\bin\Debug\SnmpSharpNet.xml
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.csprojResolveAssemblyReference.cache
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\AdditionalWindows\TableView.g.cs
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\MainWindow.g.cs
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\App.g.cs
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION_MarkupCompile.cache
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION_MarkupCompile.lref
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\AdditionalWindows\TableView.baml
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\MainWindow.baml
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.g.resources
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP_NMS_STATION.Properties.Resources.resources
+C:\Users\michal.ziolkowski\Desktop\zst_projekt\ZST-SNMP\SNMP-NMS-STATION\SNMP-NMS-STATION\obj\Debug\SNMP-NMS-STATION.csproj.GenerateResource.Cache
